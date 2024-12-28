@@ -1,7 +1,3 @@
-Here’s a sample `README.md` for your multi-vendor e-commerce platform project:
-
----
-
 # Multi-Vendor E-Commerce Platform
 
 A scalable and secure multi-vendor e-commerce platform built using the **MERN** stack (MongoDB, Express.js, React, Node.js). This platform allows multiple vendors to manage their products and process orders while customers can browse products, make secure payments, and interact with vendors in real-time.
@@ -73,8 +69,8 @@ A scalable and secure multi-vendor e-commerce platform built using the **MERN** 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/multi-vendor-ecommerce.git
-   cd multi-vendor-ecommerce
+   git clone gh repo clone sujeetmehra01/multi-vendor-ecom-v1.git
+   cd multi-vendor-ecom-v1
    ```
 
 2. Install the backend dependencies:
